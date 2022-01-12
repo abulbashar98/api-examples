@@ -1,0 +1,9 @@
+.country{
+    border: 2px solid red;
+    margin: 10px;
+    padding: 20px;
+    background-color: royalblue;
+    border-radius: 25px;
+    color: seashell;
+    text-align: center;
+}
